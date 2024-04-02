@@ -1,5 +1,5 @@
 <svelte:head>
-<title>О Саратове</title>
+<title>История автомобилей Ford</title>
 </svelte:head>
 
 <div class='container'>
@@ -8,14 +8,14 @@
 <div class='container info-container'>
 <div class='info-text'>
 <h1>
-<p class='animate-text-1'>Добро пожаловать в Саратов!</p>
+<p class='animate-text-1'>Добро пожаловать в прошлое!</p>
 </h1>
 </div>
 <h2 class='subtitle'>
-На данном информационном ресурсе вы сможете познакомиться с историей нашего города, узнать о его достопримечательностях и насладиться его живописными видами
+На данном информационном ресурсе вы сможете познакомиться с историей создания автомобилей марки Ford от самого первого автомобиля и до 2000 года и посмотреть фотографии машин прошлого.
 </h2>
 <div style='color:black' class='scroll-button animate-scroll'>
-<a href='/history'>Продолжить знакомство</a>
+<a href='/history'>Завести мотор</a>
 <div class='arrow'>&#8594;</div>
 </div>
 </div>

@@ -1,8 +1,8 @@
 <svelte:head>
-<title>Достопримечательности</title>
+<title>Автомобили</title>
 </svelte:head>
 <div class='container'>
-    <h1>Достопримечательности</h1>
+    <h1>Автомобили</h1>
     <div class='blogposts'>
         {#each routes as page}
             <div class='post'>
